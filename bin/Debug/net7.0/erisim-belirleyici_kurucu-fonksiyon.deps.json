@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "erisim-belirleyici_kurucu-fonksiyon/1.0.0": {
+        "runtime": {
+          "erisim-belirleyici_kurucu-fonksiyon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "erisim-belirleyici_kurucu-fonksiyon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

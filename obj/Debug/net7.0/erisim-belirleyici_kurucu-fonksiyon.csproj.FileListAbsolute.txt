@@ -1,0 +1,14 @@
+C:\Users\beyza\Desktop\C#\erisim-belirleyici_kurucu-fonksiyon\bin\Debug\net7.0\erisim-belirleyici_kurucu-fonksiyon.exe
+C:\Users\beyza\Desktop\C#\erisim-belirleyici_kurucu-fonksiyon\bin\Debug\net7.0\erisim-belirleyici_kurucu-fonksiyon.deps.json
+C:\Users\beyza\Desktop\C#\erisim-belirleyici_kurucu-fonksiyon\bin\Debug\net7.0\erisim-belirleyici_kurucu-fonksiyon.runtimeconfig.json
+C:\Users\beyza\Desktop\C#\erisim-belirleyici_kurucu-fonksiyon\bin\Debug\net7.0\erisim-belirleyici_kurucu-fonksiyon.dll
+C:\Users\beyza\Desktop\C#\erisim-belirleyici_kurucu-fonksiyon\bin\Debug\net7.0\erisim-belirleyici_kurucu-fonksiyon.pdb
+C:\Users\beyza\Desktop\C#\erisim-belirleyici_kurucu-fonksiyon\obj\Debug\net7.0\erisim-belirleyici_kurucu-fonksiyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyza\Desktop\C#\erisim-belirleyici_kurucu-fonksiyon\obj\Debug\net7.0\erisim-belirleyici_kurucu-fonksiyon.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\C#\erisim-belirleyici_kurucu-fonksiyon\obj\Debug\net7.0\erisim-belirleyici_kurucu-fonksiyon.AssemblyInfo.cs
+C:\Users\beyza\Desktop\C#\erisim-belirleyici_kurucu-fonksiyon\obj\Debug\net7.0\erisim-belirleyici_kurucu-fonksiyon.csproj.CoreCompileInputs.cache
+C:\Users\beyza\Desktop\C#\erisim-belirleyici_kurucu-fonksiyon\obj\Debug\net7.0\erisim-belirleyici_kurucu-fonksiyon.dll
+C:\Users\beyza\Desktop\C#\erisim-belirleyici_kurucu-fonksiyon\obj\Debug\net7.0\refint\erisim-belirleyici_kurucu-fonksiyon.dll
+C:\Users\beyza\Desktop\C#\erisim-belirleyici_kurucu-fonksiyon\obj\Debug\net7.0\erisim-belirleyici_kurucu-fonksiyon.pdb
+C:\Users\beyza\Desktop\C#\erisim-belirleyici_kurucu-fonksiyon\obj\Debug\net7.0\erisim-belirleyici_kurucu-fonksiyon.genruntimeconfig.cache
+C:\Users\beyza\Desktop\C#\erisim-belirleyici_kurucu-fonksiyon\obj\Debug\net7.0\ref\erisim-belirleyici_kurucu-fonksiyon.dll
